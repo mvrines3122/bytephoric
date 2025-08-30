@@ -1,1 +1,1693 @@
-return(function(l,...)local k="This file was obfuscated using PSU Obfuscator 4.0.A | https://www.psu.dev/ & discord.gg/psu";local f=l[((#{745;975;411;}+713471133))];local p=l["g02X8BGI"];local E=l[((634707077-#("...")))];local r=l[(550789323)];local a=l[((#{100;(function(...)return 809;end)()}+126661489))];local M=l[((238413254-#("...")))];local A=l[((#{}+26539484))];local O=l[((#{}+683738440))];local Y=l[((151409410-#("")))];local R=l[(798880125)];local G=l[(537882490)];local z=l[((#{591;51;(function(...)return 521,767,11,...;end)(301,737)}+19745880))];local B=l['AUgHWY6p'];local t=l['jJpdkzAg'];local U=l[(903785619)];local D=l['tWi8rA2Taw'];local F=l[((309869580-#("...")))];local c=l['WBBed'];local o=l[(387369311)];local T=l[(129194265)];local _=l[(737833722)];local Q=l[((#{612;435;310;}+755304955))];local H=l[((#{332;321;625;}+626443448))];local v=l[((158324105-#("...")))];local y=l[((#{538;718;}+853478358))];local u=l[(706623659)];local g=l[((526931178-#("")))];local I=l[(541178571)];local X=l[(336604396)];local h=l[((505977288-#("")))];local W=l["MvqHbxP"];local w=((getfenv)or(function(...)return(_ENV);end));local n,i,e=({}),(""),(w(c));local d=((e[""..l[f]..l["rcidontedA"].."\116"..l["VH45T14hp"].."\50"])or(e["\98"..l.rcidontedA.."\116"])or({}));local n=(((d)and(d["\98"..l[X]..l['I5C6a'].."\114"]))or(function(l,e)local n,c=c,r;while((l>r)and(e>r))do local d,a=l%o,e%o;if d~=a then c=c+n;end;l,e,n=(l-d)/o,(e-a)/o,n*o;end;if l<e then l=e;end;while l>r do local e=l%o;if e>r then c=c+n;end;l,n=(l-e)/o,n*o;end;return(c);end));local x=(o^G);local s=(x-c);local C,S,N;local x=(i[""..l[R]..l[T].."\117\98"]);local x=(i[""..l[T].."\117"..l[f]]);local q=(i[""..l["tB5FUaFU"]..l[A].."\97"..l["qQ3yOMGEBU"]]);local R=(i["\98\121"..l[t]..l[h]]);local Z=((e[""..l[E]..l[a].."\116"..l[A]][""..l[u]..l[I]..l[h]..l[X].."\112"])or(function(l,e,...)return((l*o)^e);end));local i=(e["\114"..l[a].."\119"..l[T]..l[h].."\116"]);local V=(e["\112"..l[a]..l["rcidontedA"]..l.qQ3yOMGEBU.."\115"]);local g=(e[""..l[t]..l["I5C6a"].."\110"..l[g]..l[E].."\98\101\114"]);local b=(e[""..l[T]..l[h]..l[u]..l[h]..l["tB5FUaFU"]..l[t]]);local i=((e["\117"..l[B]..l[H]..l[a]..l["tB5FUaFU"]..l.xZHv9f4gNu])or(e["\116\97"..l[f].."\108"..l[h]]["\117\110\112"..l[a]..l.tB5FUaFU..l['xZHv9f4gNu']]));local H=(e["\116"..l[y].."\112\101"]);local y=(e["\109\97\116"..l[A]]["\102\108"..l['I5C6a']..l['I5C6a'].."\114"]);local P=(e["\115"..l[h]..l[t]..l[E]..l[h]..l[t]..l[a].."\116\97"..l[f]..l[u].."\101"]);local H=(d["\98"..l["I5C6a"].."\114"])or(function(l,e,...)return(s-N(s-l,s-e));end);C=((d[""..l[u]..l[T]..l[A]..l.rcidontedA.."\102\116"])or(function(e,l,...)if(l<r)then return(S(e,-(l)));end;return((e*o^l)%o^G);end));S=((d[""..l['qQ3yOMGEBU'].."\115\104\105"..l[F].."\116"])or(function(e,l,...)if(l<r)then return(C(e,-(l)));end;return(y(e%o^G/o^l));end));N=(d[""..l[f]..l[a]..l[B]..l[I]])or(function(l,e,...)return(((l+e)-n(l,e))/o);end);local o=(d[""..l[f]..l[B].."\111\116"])or(function(l,...)return(s-l);end);if((not(e[""..l[f].."\105"..l[t]..l.VH45T14hp..l[U]]))and(not(e["\98\105\116"])))then d[""..l[f]..l[a].."\110"..l[I]]=N;d[""..l.qQ3yOMGEBU..l[T]..l[A]..l["rcidontedA"]..l[F].."\116"]=S;d["\98"..l[X].."\111"..l["qQ3yOMGEBU"]]=n;d[""..l[u].."\115\104"..l['rcidontedA'].."\102\116"]=C;d["\98\111"..l.qQ3yOMGEBU]=H;d["\98"..l[B]..l.I5C6a..l[t]]=o;end;local o=(e[""..l[t]..l[a]..l[f]..l[u].."\101"]["\114"..l[h]..l[E].."\111"..l[M].."\101"]);local o=(e["\116"..l[a].."\98"..l[u].."\101"][""..l.rcidontedA.."\110"..l[T].."\101\114"..l[t]]);local h=(e["\116"..l[a].."\98"..l[u].."\101"]["\99\111\110"..l.tB5FUaFU..l[a]..l[t]]);local A=(((e[""..l[t]..l[a]..l[f].."\108\101"]["\99"..l.qQ3yOMGEBU.."\101"..l[a]..l[t].."\101"]))or((function(l,...)return({i({},r,l);});end)));e["\98\105"..l[t]..l['VH45T14hp']..l[U]]=d;local e=(O);local o=(#k+W);local d,T=({}),({});for l=r,o-c do local e=q(l);d[l]=e;T[l]=e;T[e]=l;end;local h,c=(function(n)local l,a,t=R(n,c,v);if((l+a+t)~=Q)then e=e+_;o=o+p;end;n=x(n,Y);local e,a,t=(""),(""),({});local l=c;local function f()local e=g(x(n,l,l),D);l=l+c;local o=g(x(n,l,l+e-c),D);l=l+e;return(o);end;e=T[f()];t[c]=e;while(l<#n)do local l=f();if d[l]then a=d[l];else a=e..x(e,c,c);end;d[o]=e..x(a,c,c);t[#t+c],e,o=a,a,o+c;end;return(h(t));end)("PSU|231141410277278279102752771121821927A111v1u10111127d141527L27n27l21B21a27A1227X122781h1h277141F1B27721x2101I1Q171921g2131d1L1922P1627Z1022x1722y28k27722121322y27B27722821o1d1o23h1B1F28728928B191Z2191R1N161n1t161122R1D27a2831D1927722C1Z1I101B213213181922Z121627721v21D1n141l1h22p28v1022v161c1822p17132772321B1i237181C29N29P29r21P21i2A31V1A162aE2Ag102331q1123d29i27926O25R21N1k1g29N21D1T1C1W2121j1f1T131h1j1N1B1d1Q23H2a821X2171r1o22X29Y277224211171B141J23a2af27722721m1122H27g27L27f27a28A1a1218182771x21o1N2cI27y1x212101727y12111h2Ba27C1028a1d151629Z102cn1K19152DC151I1d1P2aB2an2D21q1F171E1e2CM21O1t2cu172Du2cn1i2Dm2Du1728a10182do2Dq1p142Ck2cK2cN1d1g2e81811219218102Dc2cK11217217112D627721d2141s2D5161d1d2eF2eh27X2D628a1B132ck2dQ2cp132F8132cS2CU2F9132cY2ba2dC27728a1e2d62d72D9192FL162Df1o171C2dJ2e12E32DP2d82dR2E22e82Dw1F2ed28A11192e42fz2E6192Gc192ea1G2gd192ey102D62gC2el2en2dU2EQ2141L1c2Du2eW2gJ2F82dU24K24t2Ee27M21121127721021027724K2541u2Cx112142142772H32cm212141327527x111g2822d12fA1Y102182eH102Gz121b27M2162162772152152H82541c1g27m2HV2772I22hI2hk2752f82hO2hQ27627T27V2791a1A27A1f29328v2IL23b1m181T2342a828X28Z23H29l2A0217191j1j121n1h1N23A192B42202132f41D28c28E1L1f1D2AW1127Q1021V21B2fe1b22W2472Ay2771w23q21n2Js2772201921b17142bX2d722821D2bM1b1q2342jG2bz1Z1E152112Ka141c1L29E1122Y2J5102J21o1S1n21H21e1s2312ac2K721P1O1C1f2eO1D22O2a82Aa2ac22P131728W28Y2L11n1123b2kY2Jv2jX1129P1s2252852Km1C121D21O2Lo2l222B1X27d2CF2791121221327827M111x1w27h172D727R2CS2HL2mc152IL2781I1U2An2eW2FI1q2CL2mY2Dk2GI1B2862fZ1h1c2Mh2Mi21o1j1e2NA2fn2NA2BL2fE2772dU112mM27827x2cn1U2k12D82122mq2mg2ms2cg1q2N42n62cn2N82nF2nC2ne2Mh2cN1v2Hc27M2Cn2cp2Nf2122G42Na2FF102F827D2Eg27R2f82Mv2eX2Ep2N327S2fI1d1t122Fh27l2hP27R2MZ2gi2or2CS29f2oh2p027m27d27U27a2d12782g92762iL21Y21b29a22P2l8102202lA2lC2LE22O2k62pn2K92KB22x2Ll2Ln28z2l22Lr2M0102241Z2m22M42m62JE2A822b2131R1v2382lT2jW112i02Lx2252PY1021W1x1M2MM1t1m2Br2Il2li2Ad2lt2J72J92JB2jD23a1E2iq102pi29A21i2as2C42jE2PM22d1R181k1n101V1v21T1t1P27721Z1y1H2102lo1g28c2122kR2kT2kV21M2bG2CJ1O23b2Pt2341H181R112292HT2CE2cd2mG2Nn2792cS1d2R62oU2Ow2N527D1A2N6102HN2SI2mO2122lm2MC2P027928A2CL27X2hi2Ox2Sz2822T12n02G12dq2nr2sJ21O2E62TE2Da2TE1S2Ot2nt1B2N927S2js2762p92dk2cI2n22OI2ii27m122KB2t42oj1x2HT1o1O2T5152du2D62Ij2DT27723o24v21527y1m1m2771p2RP2tt27y2hi2cu2Cw2UB2u12cH29Y2fM2ct2cv27y2us28L2Md2mf2u12MI2mK2ur2Pb2792gc2672672832am27722f21I2iy21e2151T21D2En15182lG2Il22f21e192vp1A2Fy22A21J18121r1h1Z21f1r1d29D29F22Y2qn2QC1h1l101l1122O2By2A9121h29C1222r2pm21U1Z2cj2w22cj2332q321u21C2a31A1X211161728B23b2R52772r81n2rA2a32bM2Jf2b42391r2hB1T2w229c21721k1I2l62q3234122XK2wM1n2Xn2xP2312922772Qc2X41M2Lq171j1y21811181F1E22R2Q328S1u151121n2192YB29C2342vW2Rq2rs21C2qQ1g161B1A151f2x62A52772251y1q161M21321j27N2sb22N23621B151A182WW2N62rR1H21j2vn182Y41B22y2C7102Ai2Ak2KY22s2eO2M22rO1528i2Q322621N1o2DM1N1w21f1F191222p2pt2kF2yZ1723b2z1102371m1h2Tk29i2Qj2xJ1v1l29b1D23h2yP2Qo2QQ1m2gc29c21J2zE1C2kI2342Pt2372BK1m1P22Y2kl2JU2y92yB1e1I2Y62KU2W92Q32Y21R28C21d21J2DG1g22p2X81022u1f29a1m1Q1e192jP22w2Ky22b21c2JD29r2152L52312Qn22I21H122851C1M2ls29m1021u2191b1T21r2VK2wM310E2Jt22D1H2191422N21I2pm2392z61n1m151L1L22t310K311z29A161f2zF2Yb2cY2xV1r1T23a2qN22C2A2101J1828o2KY22e14112rB2aU2aw311x2312Hz1d1F27j1i313N23b2Ve1028S1O2E61e2XC2rC23A2q32q52Q721R312A1r2E62342wQ29p1m21h2Kg162342QN22321a1S21m2182i022P311f2l72VW21M21415313n1l1331242LK2Sy22p2yZ1T2CK2kc2zs22A21f290310y22R1b3125310c1g2D51N311U312m2PM313r2gc1L1v29e31182Jt2Xs311q2Kj2A821v2j71l234311x22A2QD2Ar2aT2av22P2Wj22031312Q02302Pm28S1q1y311t1P311V316w2131T172jO2jQ315j2A02Y929R2yn310y2wy2rg1F21p2122Ix1O21121f1T1D235311x21t2RZ311m111t23b310y2VY2yW111N1x21I2823175191k23b2Qn22v2wL2JA1B1o236311f22r27X2bO21m2191N1l1S1D29Y2ax27722V181B22O314D2371i1n1J2Gt317531772Aw1I2uJ1022R2jD2a41H31551m2Z6171N21m21l1J2w62W82kw2Wj310M161h171r22Y2Pt2252141B1R1631892Sy318b2xV318E236314d2z31B1h1P1921I314Q314S2s72jA29i22w2PT22e317031722Cl2Q42111e1f1s31862kx27921s2vB21w2qn22e21f29C313N21s21I28Q1022n1O21v3191277310M1H2EM1s1q2a31521n21I2eX2kI1t317O23H2Qn316g315x2Cx22o2Zs2341s1u23a2wJ21V2182f81t21T21j2Y01023B315E1t319D21O313I1p2DF1e1j1M2ps2jt2222111d21721922O311F21v21i2LM2bn1q21J1y2AC31912302B42782B62B82bA1022d317J1n21n2132Yh112133141316P314D315V2jQ2w02DM2d41V1j315L2n631bF29c27p2I0121L2j4312o23B311K310O2ac1E1h314T31Ap312q312s21q21q312s22z2Q32VG2JL21k1z2WE31401N21t2a82iW1j1S22Y2PM315V191l2aF2N82Px2Sy31b231B431C721J2zs28N316e2iL2bT2Bv22X2pM2PO2LB2lD2eV2Vq2772L7318O31D5312O31Ej1731El31eN22O2Ky21z2xP1f2152F4318123a2Ky22x1q21821o318J2ex22O1V1R2772Qp2Ll1k1p1O2zm31Ey2132161A172s921a316h21d21f1j2ki310i2PT22C2BG181522W31bt316h101H2wh2Wj21X31Gt31gV31A2318T318V310C31572PT22b2K531A0316a2Y121N2Lm1r2342Ky21T1y29D1v318N31h631FU312o22p1k111R1s311Q1031HP31CA2Vy318O2ZF31e031h61y2Pj2nM31Hl102z32z51M316q2D72362bh2Sr1222x31Bd1022B2rb2bM1x31AF1431dj316O2AW2ky23B1O2rO1O2BK318r2pm31a431h52kS1u312n2aO29Q29S29u29W31Bt2181t1n1Y312e311F22821r2x428B1w31dK31J3312o2ji1v2WF1n21C21728o311F22p22a172Eo2dz112Ku31751z314d22w2lm141d319l2W72KV2wA2sY310m31J22A72iL313F1n31kU28w21d31Fn31It236319T21D218319F2qR319I319k319m31kp2A82381t2zg2332WJ28N2Qt29b2J02il22621b2Lj2q3313r2Bd31j114314231im2772wp11318q316i2WJ2L02l22xf2772262171h1331J61p2122181J1P1e2rd31AP21X21G141s2RP2WG31CN2x921g31922aD2qn315R16132F31022W311x21z2L521M31jy312X31Hm2j522w313531372EV31eY22P2kY22A21N31as1S21f21H314r2382B92L931fH2le21i21p31I6210314y31LM2772Qg31nf31hR2HT2z61031AU1b23h311F21u31K62YX315H19310931Gu2Kj314D29o31JI316N31Lv316P2PT2zx319h1i22r31GX2AP2ZQ2ZS2371a1n2zR2ay22121m21E21X2wx21j2eT182jL31oF2XP22531Jb2WL2jc1T1s31cb31CA31a41631CL2N02wd313b31Oe22p2yi2772vw2q3319A1J314a1R2Y4314K2qb21i2a4316J2r622d21n1b1k31mN31MP2wh310K31a4310p27L1B310S310u2Ev23h2PM2rr2cI182Wm31o82pM2pi31012hE1M1R2302Wj2Qp171g1R1q23B1s2u631iu21M14314g28g2kV21O21F151D1s1621r2Q62m31927f22O317r2kr21731fZ2EE2jE317r21J318n1l1J21R1Y31Hg2jt22t2Rj31bQ2r42r62q51821g31n72Pt31A41j1422V311x31dN1631Dp2eo2902qN31m42lQ23B31Ox29C22u314d22b21o1Q1R1A21j31n7316r2151F2zG28I2wJ2322BV3107314l2n622421L1K21e3184103186318831cA316531eY31681631LU31lw2q3319Q31L821m31G731aj2a8312Z313122X310y31a41n2N9317C319N317W31Gx21d31JE23b2Pm22u172yi21d2bC1C234314d21Z2122AC2Ra318528C31882Qz2J82Ja2jc2JE2Qn2361N31Qc1G2Qr31Ea31BE310n31tn31uW23b311F31CP31Jv1731jx31kt2KY31sT2L42L6310Y31L31R31L531l7319h21M21F1p1k22T1g1k2Y12132y32Y51j21q1D21J31ia2cI2a52wH31eR2Ix2IZ2A822q29I1322W310Y31043106319H318331v62BO2AW2WJ22P182841d31Hp310k235141G31X321m21c112VM1h316631tt2xS2D721v1531MT2lJ313q31uN21i318M23G31M32KG31CZ31Ih2qp28K1d22w2wj31uR2aC31Rr319p2Hp314r1431nZ2a92ab31mv2sy2BT1F31OE31h72D7319a315W141r22z2pm23831I32MM311q192wP31aP22u31kN319N22y31nq319931g831N6171O316131rJ313A2a62q322e21R31a0111K1d21L31Dd23a2a822C21n2OJ31AK2jt31yd1931Y22zS22t1m132382WJ319A2a32A531Lx310L31Yl28C31oT2jT21T21E10310n31y32382x4311V314M31rO2Q82Q02jE31yU31qW1o2Jd31ym1y21731Y931242wH2pt238315g315i2qN21Z21H2bm3168310W310k22B21E1o21G2142Uj1I28k21j21j31v631v8310y2pi171A31ie2Sb172zm2js2vp310K31I92eT31wb31H621j2qd1t1j28K318s2R7191p22A1M29Q31IU21K1A2A5171D31CK1M21g28Y1l1i191T1V22x2PT22U1a2AG313O31N32RS31tv316p2qn31g421821p31gO313c31c331d218319122T322s17313V2AN1231eH2N62Vy2W02w231oG311731V331v531Mn2Pk31It31a431Bh31bj27P31Bm31bo1q31Bq310w311x31A41q2c32Bm31v831PU102131Z322J32271V1M23c2tk2sf27W182sm2oU1u1121t31eQ27L31aS2st122192192DF1S1322K22K2oU1R1421m21m2ou1Q1525y25y2oU2dh24L24l2OU2fS2Ra2OU1n182632632Ou311124s24S2OU1l1a2GC2OU1k1b24W24w2ou319225e25E2oU2Df2522522ou1h1E22j22j2OU1g1f21W21w2ou1F1G2202202Ou31e82382382OU1D1I25b25b2OU1C1J2272272OU31qb2f52D22sL1l21L21L2OU191m25h25h2OU323023U23U2Ou31yY325h2oU161p25r25R2Ou1528b2sY2df31Yf1Y2sE2dF131s2392392OU2xt31eE2OU111U313b2ou2rK2eM2oU21R1W22A22a2Ou21q1x2592592OU21P1Y25x25X2ou21o1Z24c24c2OU21n2102D12df21M2112m52OU31ZB21H21H2Ou21k21323S23S2Ou21j2142622622ou21I21521p31nv326w21H2161z1Z2OU21G2172g92dF21F2182fU2oU21E21925d25d2ou21d21A24t24T2OU21c21B24Q24Q2oU21b21c21G21g2oU21a21d25K25K2ou21921e24F24F2oU21821F2352352ou21721G23V23v27D2iS1127x32AB324O13255255324t1423b23B324Y15324M325331My2ay2fR1724y24Y325a1821x21X325F1925s25s325j1A2rl325n1B21s21s325s1C25a25a325W1D24n24n32601e2u532651F22x22X326A1g25M25m326F1h266266326j1I25C25c326o1J25P25P326t1K22g22g2oU322522v22v32711M25W25W32761n22F22f327A1o24r24R327d1P25N25N327i1q21y21Y2Ou31YF24e24e2OU327r23e23E327v1T22H22h327Y1U22E22E32821V2Hh326W328621V21v328a1x2Or2DF328G21a2in2df328l22m22M328p2102612612Ou328u2ut31Za21223Y23Y32912132122CT326W3297226226329b2152312312OU329h24U24U329L2171w2Mk326w329q23I23I329T219247247329Y21A24324332a321B2J932A821C327832Ad21D1Q1q32ai21e25725732aN21F22122132AS21G25g25G32ax2m232b021G32b223p23p32b623m23M32BA2tS2DF2dh23n23n32571723J23J32bk23023032bo23Q23Q32BS23623632BV1r31Gc326w31922ic326w2dF24v24V32c723f23F32ca24424432cE23C23c32Ci24B24B32cm24A24A32cQ24J24J32cu22422432Cy1l1U27k326W327222L22L32d625Z25z32da22222232de25U25u32dI23723732dm1R2sP326w327R23H2Br326W2XT25425432dy2ul32e22342J032E51w24624632E925t25T328F1y22t22T328k1Z31X332EK21K21k32EO21123r23R328x21224g24G32eV24o24O329621423t23T32F32H632F721624124132FB2562562Ou329q21C21C32Fj2IS32FN2HE32fr22z22Z32Fu21Z21z32fx25325332g122c22c32g521U21u32G924M24M32aX1D1332gf32B21s31pJ326w324U28132ba25025032bD24H24H32gt25Q25q32BK23223232bo22p2A7326W325K1i32222DF325o22U22U32BZ21b21b32C31n2Rj326w326121r21r32CA25F25f32ce2n231cj1h22R22R32cM24524532CQ24K24K32Cu2Ie326W322531bQ32d232Ag32d622d22D32da24I24i32De24Z24z32dI22822832IL2Oy327Q1S25v25v32DU25O25o32dy22Q22Q32E223K23K32851w25l25L32E924d24d32j825J25J32jC321832EK21E3203326W328U22522532Jm22Y28u326w329226426432jT23X23X32f322s22s32Jz22b22B32Fb2i532k62181x2m9326W329U26026032fN22o2LG326w32a425125132Fu25I25I32Fx24024032G129T32g523L23l32g923o23o32Ax1A1432gf2EL2i32ok32l31422322327D2CZ2Ei2yi1132gP1632Pj27723N24G2131426C26c277328I2mz2E232Cs2dq22z23a2Ed2oI2GC2Oo28g1a2332332Mz31mz32CO2mZ2Ks32Cw2DQ23e22v2FU2fu2DF2df32ps27l1i1J102do2hn2OM2Fu2dO1131vx32QP2HN2Nx32In2dF319226526527D31gl1c2IP2iP112Sr2G12Ip23n24m1x1432Q11026D26D2Mz1c1432Q42FZ22S23d2752752Oi2dc32QB2Dh23Z23Z2Sq2862752F11Q32RV2582582DQ24K25532s1142D315328d2HI25u25X2Dd2de28z1732j62oL2Eh2Dc2dU2Fj1632sO2nT32Sq2fp2DF325B22w22w32SX2GK31so182cs2lM2dU2dc2df311124x24X32tb2Du2gC2cN21Z22i2Ck2dv21O21221n2Gc2e92sx102Gh32lP1B23w23w32tB2GC2N52cn21u22N2Ip2dV32u02n52iP32QR1d22922932tB2N52Gv2ME10329S2Fz32ub2eW32ue2LM2Do2EW2dF326b1k31W127L2om2dO31X32CN1b1M2Is32t01q1o1g32992Hi2lM2812IS2dF326P2ip27d27s2812J9111W2M932je2fZ23O24928132V621O23p24832Ln32ue25z25s32lN32lN2oI32v12812df322521f21f32rD21f1L32v132V12GJ32lN32V12cj1p1j32go1u31dS24p24P2dq22P23G2J92752CS21I2kg2J9321u2CV13313B2u132Uq2an325M32w832rJ2j9313b2Cn23Z24232wZ1432x132X32J92X41232x7315g2k12SP2e42Fu32rI28632xF2wg2v8278328Z"),(#k-z);local function o(e,l,...)if(e==837565735)then return(n(n((l)-415382,384019),754728));elseif(e==842738063)then return(n(n((l)-465192,701604),858487));elseif(e==779202883)then return((((n(l,132580))-713017)-247514)-512777);elseif(e==880170392)then return((n(n(n(l,171476),405406),417591))-54857);elseif(e==653914959)then return(n(n(((l)-882760)-764641,494079),821072));elseif(e==880673120)then return(((((n(l,805541))-70316)-397316)-518257)-508371);elseif(e==621780631)then return(n((((l)-913024)-237677)-121788,650163));elseif(e==421465689)then return(n((n((l)-393284,298362))-748648,763342));elseif(e==690398602)then return(((((l)-216317)-490669)-376957)-676470);elseif(e==55729208)then return(n(n((((l)-575219)-550251)-326111,974360),629303));elseif(e==868330354)then return((n(n(l,294664),220016))-56448);elseif(e==146485723)then return(n((n(n(l,163657),550831))-204814,496516));else end;end;local o=l[(684424758)];local d=l[(387369311)];local E=l[((862938377-#("")))];local t=l[((550789323-#("")))];local a=l.WBBed;local B=l[((547658436-#("...")))];local u=l[((#{}+448653480))];local s=l[((#{727;108;89;(function(...)return 5,...;end)(716)}+158324097))];local function r(e,l,o)if(o)then local l=(e/d^(l-a))%d^((o-a)-(l-a)+a);return(l-(l%a));else local l=d^(l-a);return(((e%(l+l)>=l)and(a))or(t));end;end;local function f()local l=n(R(h,c,c),e);e=l%o;c=(c+a);return(l);end;local function t()local a,l=R(h,c,c+d);a=n(a,e);e=a%o;l=n(l,e);e=l%o;c=c+d;return((l*o)+a);end;local function d()local d,a,t,l=R(h,c,c+s);d=n(d,e);e=d%o;a=n(a,e);e=a%o;t=n(t,e);e=t%o;l=n(l,e);e=l%o;c=c+B;return((l*E)+(t*u)+(a*o)+d);end;local U="\35";local function F(...)return({...}),b(U,...);end;local function _(...)local q=l[(700668333)];local a=l[(550789323)];local y=l.tWi8rA2Taw;local o=l['WBBed'];local S=l['HE0yi'];local B=l[(151409410)];local p=l["roYRg79Nab"];local H=l[(338722574)];local E=l[(547658433)];local s=l[((#{678;(function(...)return 184,453,...;end)(915,124,293,705)}+387369304))];local G=l[((#{187;130;1;411;(function(...)return 580;end)()}+928721897))];local b=l[((#{636;593;410;218;}+773589553))];local X=l[(537882490)];local D=l[((410477996-#("")))];local U=l[(155492965)];local g=l[(104447739)];local A=l[((684424758-#("")))];local I=l[((158324102-#("")))];local w=l[((400012805-#("...")))];local N=l["GZe7yLkGnk"];local k=l[(390317162)];local W=l[(787547837)];local O=l[(266683246)];local M=l[(498536561)];local v=l.Sla2lX02;local Y=l[(95880341)];local function F(...)local l=({});local u=({});local C=({});local Q=f(e);for l=a,d(e)-o,o do C[l]=F();end;for t=a,d(e)-o,o do local i=f(e);if(i==w)then local e=f(e);l[t]=(e~=a);elseif(i==E)then while(true)do local d=d(e);if(d==a)then l[t]=('');break;end;if(d>O)then local a,f=(''),(x(h,c,c+d-o));c=c+d;for l=o,#f,o do local l=n(R(x(f,l,l)),e);e=l%A;a=a..T[l];end;l[t]=a;else local o,a=(''),({R(h,c,c+d-o)});c=c+d;for c,l in V(a)do local l=n(l,e);e=l%A;o=o..T[l];end;l[t]=o;end;break;end;elseif(i==U)then while(true)do local n=d(e);local e=d(e);local d=o;local c=(r(e,o,M)*(s^X))+n;local n=r(e,b,q);local e=((-o)^r(e,X));if(n==a)then if(c==a)then l[t]=(e*a);break;else n=o;d=a;end;elseif(n==v)then l[t]=(c==a)and(e*(o/a))or(e*(a/a));break;end;l[t]=Z(e,n-p)*(d+(c/(s^Y)));break;end;elseif(i==y)then while(true)do local e=d(e);l[t]=x(h,c,c+e-o);c=c+e;break;end;else l[t]=nil end;end;local n=d(e);for l=a,n-o,o do u[l]=({});end;for X=a,n-o,o do local n=f(e);if(n~=a)then n=n-o;local h,x,R,A,c,i=a,a,a,a,a,a;local T=r(n,o,I);if(T==B)then x=(f(e));h=(t(e));i=(t(e));c=(d(e));R=({});for l=o,h,o do R[l]=({[a]=f(e),[o]=t(e)});end;elseif(T==G)then elseif(T==o)then x=(f(e));i=(t(e));c=(d(e));elseif(T==s)then x=(f(e));i=(t(e));c=u[(d(e))];elseif(T==I)then x=(f(e));h=(t(e));i=(t(e));c=u[(d(e))];elseif(T==a)then x=(f(e));h=(t(e));i=(t(e));c=(t(e));end;if(r(n,B,B)==o)then c=l[c];end;if(r(n,E,E)==o)then i=l[i];end;if(r(n,N,N)==o)then A=u[d(e)];else A=u[X+o];end;if(r(n,G,G)==o)then h=l[h];end;if(r(n,S,S)==o)then R=({});for l=o,f(),o do R[l]=d();end;end;local l=u[X];l[g]=R;l[k]=A;l["XCD"]=x;l[-W]=h;l[844727.9769006805]=i;l["m1R"]=c;end;end;local e=t(e);return({['eoqPn7hq00']=a;["XzArEpI53R"]=Q;[D]=l;[H]=C;["bRkWSfCu1"]=u;['YUC']=e;});end;return(F(...));end;local function T(l,x,f,...)local o=0;local d=l["XzArEpI53R"];local e=l[10539];local B=l[520900];local t=l['YUC'];local l=l["bRkWSfCu1"];return(function(...)local E=({});local I=115254;local c="m1R";local e=(true);local n=461401;local a=-955143;local e=(813371132);local e={};local s={...};local u=(b(U,...)-1);local R={};local h=l[o];local o=844727.9769006805;local G='XCD';local r=-(1);for l=0,u,1 do if(l>=d)then R[l-d]=s[l+1];else e[l]=s[l+1];end;end;local u=u-d+1;while(true)do local l=h;local d=l[G];h=l[n];if(d<=22)then if(d<=10)then if(d<=4)then if(d<=1)then if(d>0)then local t=B[l[c]];local d=l[I];local n={};local c=P({},{__index=function(e,l)local l=n[l];return(l[1][l[2]]);end,__newindex=function(o,l,e)local l=n[l];l[1][l[2]]=e;end;});for l=1,l[a],1 do local o=d[l];if(o[0]==0)then n[l-1]=({e,o[1]});else n[l-1]=({x,o[1]});end;E[#E+1]=n;end;e[l[o]]=T(t,c,f);elseif(d<1)then local o=l[o];local n,l=F(e[o](i(e,o+1,l[c])));r=l+o-1;local l=0;for o=o,r do l=l+1;e[o]=n[l];end;end;elseif(d<=2)then e[l[o]][l[c]]=e[l[a]];elseif(d>3)then local l=l[o];e[l]=e[l](e[l+1]);for l=l+1,t do e[l]=nil;end;elseif(d<4)then local o=l[o];local c={e[o](e[o+1]);};local n=l[a];local l=0;for o=o,n do l=l+1;e[o]=c[l];end;for l=n+1,t do e[l]=nil;end;end;elseif(d<=7)then if(d<=5)then local l=l[o];do return i(e,l,r);end;elseif(d==6)then e[l[o]]=x[l[c]];elseif(d<=7)then local o=l[o];local n=e[l[c]];e[o+1]=n;e[o]=n[l[a]];end;elseif(d<=8)then e[l[o]]=f[l[c]];elseif(d>9)then e[l[o]]=T(B[l[c]],(nil),f);elseif(d<10)then if(e[l[o]]==l[a])then h=l[c];end;end;elseif(d<=16)then if(d<=13)then if(d<=11)then local o=l[o];e[o](i(e,o+1,l[c]));for l=o+1,t do e[l]=nil;end;elseif(d>12)then l=l[n];e[l[o]]=(l[c]~=0);l=l[n];x[l[c]]=e[l[o]];l=l[n];e[l[o]]=x[l[c]];l=l[n];local d=l[o];local r=e[l[c]];e[d+1]=r;e[d]=r[l[a]];l=l[n];local d=l[o];e[d]=e[d](e[d+1]);for l=d+1,t do e[l]=nil;end;l=l[n];f[l[c]]=e[l[o]];l=l[n];e[l[o]]=f[l[c]];l=l[n];e[l[o]]=f[l[c]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];e[l[o]][l[c]]=e[l[a]];l=l[n];e[l[o]]=x[l[c]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];local d=l[o];local r=e[l[c]];e[d+1]=r;e[d]=r[l[a]];l=l[n];local d=l[o];e[d]=e[d](e[d+1]);for l=d+1,t do e[l]=nil;end;l=l[n];e[l[o]]=f[l[c]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];local d=l[o];local r=e[l[c]];e[d+1]=r;e[d]=r[l[a]];l=l[n];e[l[o]]=e[l[c]];l=l[n];local d=l[o];e[d]=e[d](i(e,d+1,l[c]));for l=d+1,t do e[l]=nil;end;l=l[n];f[l[c]]=e[l[o]];l=l[n];e[l[o]]=f[l[c]];l=l[n];e[l[o]]=l[c];l=l[n];local d=l[o];e[d](e[d+1]);for l=d,t do e[l]=nil;end;l=l[n];e[l[o]]=f[l[c]];l=l[n];local d=l[o];local c=e[l[c]];e[d+1]=c;e[d]=c[l[a]];l=l[n];local o=l[o];e[o](e[o+1]);for l=o,t do e[l]=nil;end;l=l[n];l=l[n];elseif(d<13)then f[l[c]]=e[l[o]];end;elseif(d<=14)then local o=l[o];local c=l[c];local a=50*(l[a]-1);local n=e[o];local l=0;for c=o+1,c do n[a+l+1]=e[o+(c-o)];l=l+1;end;elseif(d==15)then e[l[o]]=A(l[c]);elseif(d<=16)then e[l[o]]=e[l[c]];end;elseif(d<=19)then if(d<=17)then local l=l[o];e[l](e[l+1]);for l=l,t do e[l]=nil;end;elseif(d==18)then e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];l=l[n];elseif(d<=19)then e[l[o]]=#e[l[c]];end;elseif(d<=20)then l=l[n];local c=l[o];r=c+u-1;for l=0,u do e[c+l]=R[l];end;for l=r+1,t do e[l]=nil;end;l=l[n];local o=l[o];do return i(e,o,r);end;l=l[n];l=l[n];elseif(d>21)then l=l[n];e[l[o]]=f[l[c]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];local d=l[o];local r=e[l[c]];e[d+1]=r;e[d]=r[l[a]];l=l[n];e[l[o]]=e[l[c]];l=l[n];e[l[o]]=f[l[c]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=f[l[c]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];e[l[o]]=f[l[c]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];local d=l[o];e[d]=e[d](i(e,d+1,l[c]));for l=d+1,t do e[l]=nil;end;l=l[n];e[l[o]]=A(256);l=l[n];e[l[o]][l[c]]=l[a];l=l[n];local d=l[o];e[d]=e[d](i(e,d+1,l[c]));for l=d+1,t do e[l]=nil;end;l=l[n];e[l[o]]=f[l[c]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];local d=l[o];local r=e[l[c]];e[d+1]=r;e[d]=r[l[a]];l=l[n];e[l[o]]=e[l[c]];l=l[n];e[l[o]]=f[l[c]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=f[l[c]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];e[l[o]]=f[l[c]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];local d=l[o];e[d]=e[d](i(e,d+1,l[c]));for l=d+1,t do e[l]=nil;end;l=l[n];e[l[o]]=A(256);l=l[n];e[l[o]][l[c]]=l[a];l=l[n];local o=l[o];e[o]=e[o](i(e,o+1,l[c]));for l=o+1,t do e[l]=nil;end;l=l[n];l=l[n];elseif(d<22)then e[l[o]]=A(l[c]);l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];l=l[n];end;elseif(d<=34)then if(d<=28)then if(d<=25)then if(d<=23)then l=l[n];e[l[o]]=x[l[c]];l=l[n];local d=l[o];local r=e[l[c]];e[d+1]=r;e[d]=r[l[a]];l=l[n];e[l[o]]=l[c];l=l[n];local d=l[o];e[d](i(e,d+1,l[c]));for l=d+1,t do e[l]=nil;end;l=l[n];e[l[o]]=x[l[c]];l=l[n];local i=l[o];local d=e[l[c]];e[i+1]=d;e[i]=d[l[a]];l=l[n];local d=l[o];e[d](e[d+1]);for l=d,t do e[l]=nil;end;l=l[n];e[l[o]]=f[l[c]];l=l[n];local d=l[o];local i=e[l[c]];e[d+1]=i;e[d]=i[l[a]];l=l[n];local d=l[o];e[d](e[d+1]);for l=d,t do e[l]=nil;end;l=l[n];e[l[o]]=f[l[c]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];local d=l[o];local i=e[l[c]];e[d+1]=i;e[d]=i[l[a]];l=l[n];local d=l[o];e[d]=e[d](e[d+1]);for l=d+1,t do e[l]=nil;end;l=l[n];e[l[o]]=f[l[c]];l=l[n];e[l[o]]=e[l[c]];l=l[n];local o=l[o];local d={e[o](e[o+1]);};local a=l[a];local c=0;for l=o,a do c=c+1;e[l]=d[c];end;for l=a+1,t do e[l]=nil;end;l=l[n];l=l[n];elseif(d==24)then e[l[o]]=e[l[c]][e[l[a]]];elseif(d<=25)then e[l[o]][l[c]]=l[a];end;elseif(d<=26)then e[l[o]]=e[l[c]];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=f[l[c]];l=l[n];e[l[o]]=f[l[c]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=#e[l[c]];l=l[n];local d=l[o];e[d]=e[d](i(e,d+1,l[c]));for l=d+1,t do e[l]=nil;end;l=l[n];e[l[o]]=e[l[c]][e[l[a]]];l=l[n];local d=l[o];e[d]=e[d](e[d+1]);for l=d+1,t do e[l]=nil;end;l=l[n];e[l[o]]=l[c];l=l[n];local f=l[c];local d=e[f];for l=f+1,l[a]do d=d..e[l];end;e[l[o]]=d;l=l[n];local o=l[o];e[o](i(e,o+1,l[c]));for l=o+1,t do e[l]=nil;end;l=l[n];l=l[n];elseif(d==27)then e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];l=l[n];elseif(d<=28)then if(e[l[o]]~=l[a])then h=l[c];end;end;elseif(d<=31)then if(d<=29)then e[l[o]]=e[l[c]][l[a]];elseif(d>30)then e[l[o]]=l[c];elseif(d<31)then local l=l[o];r=l+u-1;for o=0,u do e[l+o]=R[o];end;for l=r+1,t do e[l]=nil;end;end;elseif(d<=32)then x[l[c]]=e[l[o]];elseif(d>33)then h=l[c];elseif(d<34)then local l=l[o];e[l]=e[l](i(e,l+1,r));for l=l+1,r do e[l]=nil;end;end;elseif(d<=40)then if(d<=37)then if(d<=35)then local o=l[o];e[o]=0+(e[o]);e[o+1]=0+(e[o+1]);e[o+2]=0+(e[o+2]);local n=e[o];local a=e[o+2];if(a>0)then if(n>e[o+1])then h=l[c];else e[o+3]=n;end;elseif(n<e[o+1])then h=l[c];else e[o+3]=n;end;elseif(d==36)then local d=l[o];e[d](e[d+1]);for l=d,t do e[l]=nil;end;l=l[n];e[l[o]]=f[l[c]];l=l[n];local d=l[o];local f=e[l[c]];e[d+1]=f;e[d]=f[l[a]];l=l[n];local a=l[o];e[a](e[a+1]);for l=a,t do e[l]=nil;end;l=l[n];e[l[o]]=(l[c]~=0);l=l[n];x[l[c]]=e[l[o]];l=l[n];l=l[n];elseif(d<=37)then local o=l[o];local a=e[o+2];local n=e[o]+a;e[o]=n;if(a>0)then if(n<=e[o+1])then h=l[c];e[o+3]=n;end;elseif(n>=e[o+1])then h=l[c];e[o+3]=n;end;end;elseif(d<=38)then local c=l[c];local n=e[c];for l=c+1,l[a]do n=n..e[l];end;e[l[o]]=n;elseif(d>39)then e[l[o]]=e[l[c]];l=l[n];e[l[o]]=l[c];l=l[n];local d=l[o];e[d](i(e,d+1,l[c]));for l=d+1,t do e[l]=nil;end;l=l[n];e[l[o]]=f[l[c]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];e[l[o]]=f[l[c]];l=l[n];local d=l[o];local h=e[l[c]];e[d+1]=h;e[d]=h[l[a]];l=l[n];e[l[o]]=l[c];l=l[n];local d=l[o];e[d]=e[d](i(e,d+1,l[c]));for l=d+1,t do e[l]=nil;end;l=l[n];e[l[o]]=f[l[c]];l=l[n];local d=l[o];local h=e[l[c]];e[d+1]=h;e[d]=h[l[a]];l=l[n];e[l[o]]=l[c];l=l[n];local d=l[o];e[d]=e[d](i(e,d+1,l[c]));for l=d+1,t do e[l]=nil;end;l=l[n];local d=l[o];local h=e[l[c]];e[d+1]=h;e[d]=h[l[a]];l=l[n];e[l[o]]=l[c];l=l[n];local d=l[o];e[d]=e[d](i(e,d+1,l[c]));for l=d+1,t do e[l]=nil;end;l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];local d=l[o];local h=e[l[c]];e[d+1]=h;e[d]=h[l[a]];l=l[n];e[l[o]]=l[c];l=l[n];local d=l[o];e[d]=e[d](i(e,d+1,l[c]));for l=d+1,t do e[l]=nil;end;l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];local d=l[o];local h=e[l[c]];e[d+1]=h;e[d]=h[l[a]];l=l[n];e[l[o]]=l[c];l=l[n];local d=l[o];e[d]=e[d](i(e,d+1,l[c]));for l=d+1,t do e[l]=nil;end;l=l[n];e[l[o]]=(l[c]~=0);l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];local h=l[o];local d=e[l[c]];e[h+1]=d;e[h]=d[l[a]];l=l[n];e[l[o]]=l[c];l=l[n];local d=l[o];e[d]=e[d](i(e,d+1,l[c]));for l=d+1,t do e[l]=nil;end;l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];e[l[o]]=f[l[c]];l=l[n];local d=l[o];local f=e[l[c]];e[d+1]=f;e[d]=f[l[a]];l=l[n];e[l[o]]=l[c];l=l[n];local d=l[o];local h,f=F(e[d](i(e,d+1,l[c])));r=f+d-1;local f=0;for l=d,r do f=f+1;e[l]=h[f];end;l=l[n];local d=l[o];e[d]=e[d](i(e,d+1,r));for l=d+1,r do e[l]=nil;end;l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];e[l[o]]=e[l[c]][l[a]];l=l[n];local d=l[o];local f=e[l[c]];e[d+1]=f;e[d]=f[l[a]];l=l[n];e[l[o]]=e[l[c]];l=l[n];e[l[o]]=l[c];l=l[n];local f=l[c];local d=e[f];for l=f+1,l[a]do d=d..e[l];end;e[l[o]]=d;l=l[n];local o=l[o];e[o]=e[o](i(e,o+1,l[c]));for l=o+1,t do e[l]=nil;end;l=l[n];l=l[n];elseif(d<40)then e[l[o]]=(l[c]~=0);end;elseif(d<=43)then if(d<=41)then e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];e[l[o]]=l[c];l=l[n];l=l[n];elseif(d==42)then e[l[o]]=A(256);elseif(d<=43)then local o=l[o];local a=l[a];local n=o+2;local o=({e[o](e[o+1],e[n]);});for l=1,a do e[n+l]=o[l];end;local o=o[1];if(o)then e[n]=o;h=l[c];end;end;elseif(d<=44)then local o=l[o];e[o]=e[o](i(e,o+1,l[c]));for l=o+1,t do e[l]=nil;end;elseif(d>45)then do return;end;elseif(d<46)then end;end;end);end;return T(_(),{},w())(...);end)(({[(390317162)]=((461401));[((#{612;}+151409409))]=((5));[((#{5;132;885;592;(function(...)return 953;end)()}+133084539))]=("\103");[((#{139;951;(function(...)return 194,832,606,350,...;end)(222,413,221,430)}+610822225))]=("\115");[((387369311-#("")))]=((2));[(403356428)]=("\120");["WBBed"]=((1));["HE0yi"]=(((10-#("..."))));[(541178571)]=((294071940));[((972601301-#("...")))]=("\102");[((787547840-#("...")))]=(((#{157;814;857;}+955140)));[(104447739)]=(((#{616;954;}+115252)));[(755304958)]=((248));[((#{535;274;872;(function(...)return 305,447,591,462;end)()}+257273899))]=("\50");[(400012802)]=(((38-#("..."))));[(309869577)]=((972601298));[(336604396)]=((403356428));MvqHbxP=(((#{371;}+164)));[((#{66;622;}+56040066))]=("\110");g02X8BGI=(((255-#(""))));['tWi8rA2Taw']=(((#{202;551;479;(function(...)return 109,715,871,171,...;end)(612,594,563,860)}+25)));["GZe7yLkGnk"]=((8));[((498536564-#("...")))]=(((20-#(""))));[(294071940)]=("\100");[((#{159;616;85;790;}+634707070))]=(((#{}+339184866)));[((#{527;357;}+911074644))]=("\116");[((595375552-#("...")))]=("\98");[(626443451)]=((17364156));[(773589557)]=((21));[((95880344-#("...")))]=(((52-#(""))));[((737833725-#("...")))]=((78));[(547658433)]=((4));[(862938377)]=(((#{}+16777216)));[((683738440-#("")))]=(((112-#("..."))));['roYRg79Nab']=(((1026-#("..."))));tB5FUaFU=("\99");[(410477996)]=(((10542-#("..."))));[((750036982-#("")))]=("\97");[((448653480-#("")))]=((65536));[(706623659)]=(((246025126-#("..."))));AUgHWY6p=(((56040068-#(""))));[((700668336-#("...")))]=((31));['rcidontedA']=("\105");[(339184866)]=("\109");["qQ3yOMGEBU"]=("\114");[((#{}+266683246))]=((5000));[(17364156)]=("\112");[(155492965)]=(((13-#(""))));[((550789323-#("")))]=(((0-#(""))));VH45T14hp=("\51");[(903785619)]=(((#{(function(...)return 729,624,972,584;end)()}+257273902)));[((843256393-#("")))]=("\101");[(526931178)]=((90822261));jJpdkzAg=((911074646));[((#{(function(...)return 873,4,587,...;end)(158)}+158324098))]=((3));[(460637185)]=("\118");[((#{406;392;}+90822259))]=("\117");['xZHv9f4gNu']=("\107");[((713471136-#("")))]=((595375549));['I5C6a']=("\111");[((#{53;(function(...)return 657;end)()}+338722572))]=(((520903-#("..."))));[(537882490)]=((32));[((238413254-#("...")))]=(((#{821;674;615;459;(function(...)return 599,139,255;end)()}+460637178)));[(348659840)]=("\104");[((26539484-#("")))]=(((#{888;500;(function(...)return 318,481,834,376;end)()}+348659834)));[(129194265)]=((610822235));[((508118914-#("")))]=("\121");[(853478360)]=((508118914));[((#{875;887;694;}+798880122))]=(((#{331;}+133084543)));[((684424761-#("...")))]=((256));[((#{785;39;}+19745885))]=((90));[((#{817;44;(function(...)return 392;end)()}+246025120))]=("\108");[((928721905-#("...")))]=(((#{}+6)));[(126661491)]=((750036982));[(505977288)]=((843256393));["Sla2lX02"]=((2047));}),...);
+local MedicSystem = game.ReplicatedStorage.SPH_Assets.Medic_System 
+local Functions = MedicSystem.Funcoes
+local FunctionsMulti = MedicSystem.Multi
+local Bandage = Functions.Bandage
+local Splint = Functions.Splint
+local PainKiller = Functions.PainKiller
+local Energetic = Functions.Energetic
+local Tourniquet = Functions.Tourniquet
+
+
+local Compress_Multi = FunctionsMulti.Compress
+local Bandage_Multi = FunctionsMulti.Bandage
+local Splint_Multi = FunctionsMulti.Splint
+local Epinephrine_Multi = FunctionsMulti.Epinephrine
+local anesthetic_Multi = FunctionsMulti.anesthetic
+local Morphine_Multi = FunctionsMulti.Morphine
+local BloodBag_Multi = FunctionsMulti.BloodBag
+local Tourniquet_Multi = FunctionsMulti.Tourniquet
+local prolene_Multi = FunctionsMulti.prolene
+local o2_Multi = FunctionsMulti.o2
+local defib_Multi = FunctionsMulti.defib
+local npa_Multi = FunctionsMulti.npa
+local catheter_Multi = FunctionsMulti.catheter
+local etube_Multi = FunctionsMulti.etube
+local nylon_Multi = FunctionsMulti.nylon
+local balloon_Multi = FunctionsMulti.balloon
+local skit_Multi = FunctionsMulti.skit
+local bvm_Multi = FunctionsMulti.bvm
+local nrb_Multi = FunctionsMulti.nrb
+local scalpel_Multi = FunctionsMulti.scalpel
+local suction_Multi = FunctionsMulti.suction
+local clamp_Multi = FunctionsMulti.clamp
+local prolene5_Multi = FunctionsMulti.prolene5
+local drawblood_Multi = FunctionsMulti.drawblood
+
+
+
+local Algemar = Functions.Algemar
+local Fome = Functions.Fome
+local Collapse = Functions.Collapse
+local rodeath = Functions.rodeath
+local Reset = Functions.Reset
+local TS = game:GetService("TweenService")
+
+game.ReplicatedStorage.SPH_Assets.Medic_System.Target.OnServerEvent:Connect(function(Player, Victim)
+	if game.Players:FindFirstChild(Player.Name) then 
+		Player = game.Players:FindFirstChild(Player.Name)
+	
+		Player.Character.Saude.Variaveis.PlayerSelecionado.Value = Victim.Name
+
+	end
+
+end)
+
+Bandage.OnServerEvent:Connect(function(player)
+
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local Sangrando = Human.Parent.Saude.Stances.Sangrando
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Ferido = Human.Parent.Saude.Stances.Ferido
+	local bbleeding = Human.Parent.Saude.Stances.bbleeding
+
+	local Bandagens = Human.Parent.Saude.Kit.Bandagem
+
+	if enabled.Value == false and Caido.Value == false  then
+
+		if Bandagens.Value >= 1 and Sangrando.Value == true then 
+			enabled.Value = true
+
+			wait(.3)	
+
+
+			local number = math.random(1, 2)
+
+			if number == 1 then		
+				Sangrando.Value = false
+			end
+
+			Bandagens.Value = Bandagens.Value - 1 
+
+
+			wait(2)
+			enabled.Value = false
+
+		end	
+	end	
+end)
+
+--[[
+Compress.OnServerEvent:Connect(function(player)
+
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local Sangrando = Human.Parent.Saude.Stances.Sangrando
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local isdead = Human.Parent.Saude.Stances.rodeath
+	local cpr = Human.Parent.Saude.Stances.cpr
+
+	local Bandagens = Human.Parent.Saude.Kit.Bandagem
+
+	if enabled.Value == false and isdead.Value == true then
+	
+		enabled.Value = true
+	
+		cpr.Value = true
+
+				
+			
+		Human.Health = Human.Health + 25
+		
+		
+		
+		
+		wait(0.5)
+		
+
+		enabled.Value = false
+
+	end	
+end)
+]]--
+
+
+
+
+
+--[[
+defib.OnServerEvent:Connect(function(player)
+
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local Sangrando = Human.Parent.Saude.Stances.Sangrando
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Ferido = Human.Parent.Saude.Stances.Ferido
+	local bbleeding = Human.Parent.Saude.Stances.bbleeding
+	local o2l = Human.Parent.Saude.Stances.o2
+	local isdead = Human.Parent.Saude.Stances.rodeath
+
+	local Bandagens = Human.Parent.Saude.Kit.defib
+
+	if enabled.Value == false then
+	
+		if Bandagens.Value >= 1 and o2l.Value == true and isdead.Value == true then 
+		enabled.Value = true
+
+		wait(4)		
+		
+			isdead.Value = false
+			Caido.Value = false
+			
+			Human.Health = Human.Health + 100
+		
+		
+		wait(1)
+		enabled.Value = false
+	
+		end	
+	end	
+end)
+]]--
+
+Splint.OnServerEvent:Connect(function(player)
+
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local Sangrando = Human.Parent.Saude.Stances.Sangrando
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Ferido = Human.Parent.Saude.Stances.Ferido
+
+	local Bandagens = Human.Parent.Saude.Kit.Splint
+
+	if enabled.Value == false and Caido.Value == false  then
+
+		if Bandagens.Value >= 1 and Ferido.Value == true  then 
+			enabled.Value = true
+
+			wait(.3)		
+
+			Ferido.Value = false 
+
+			Bandagens.Value = Bandagens.Value - 1 
+
+
+			wait(2)
+			enabled.Value = false
+
+		end	
+	end	
+end)
+
+PainKiller.OnServerEvent:Connect(function(player)
+
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local Sangrando = Human.Parent.Saude.Stances.Sangrando
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Dor = Human.Parent.Saude.Variaveis.Dor
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Ferido = Human.Parent.Saude.Stances.Ferido
+
+	local Bandagens = Human.Parent.Saude.Kit.Aspirina
+
+	if enabled.Value == false and Caido.Value == false  then
+
+		if Bandagens.Value >= 1  and Dor.Value >= 1  then
+			enabled.Value = true
+
+			wait(.3)		
+
+			Dor.Value = Dor.Value - math.random(60,75)
+
+			Bandagens.Value = Bandagens.Value - 1 
+
+
+			wait(2)
+			enabled.Value = false
+
+		end	
+	end	
+end)
+
+Energetic.OnServerEvent:Connect(function(player)
+
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local Sangrando = Human.Parent.Saude.Stances.Sangrando
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Dor = Human.Parent.Saude.Variaveis.Dor
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Ferido = Human.Parent.Saude.Stances.Ferido
+
+	local Bandagens = Human.Parent.Saude.Kit.Energetico
+	--local Energia = Human.Parent.Saude.Variaveis.Energia
+
+	if enabled.Value == false and Caido.Value == false and Bandagens.Value >= 1 then
+
+		if Human.Health < Human.MaxHealth  then
+			enabled.Value = true
+
+			wait(.3)		
+
+			Human.Health = Human.Health + (Human.MaxHealth/3)
+			--Energia.Value = Energia.Value + (Energia.MaxValue/3)
+			Bandagens.Value = Bandagens.Value - 1
+
+
+			wait(2)
+			enabled.Value = false
+
+		end	
+	end	
+end)
+
+Tourniquet.OnServerEvent:Connect(function(player)
+
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local Sangrando = Human.Parent.Saude.Stances.Sangrando
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Dor = Human.Parent.Saude.Variaveis.Dor
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Ferido = Human.Parent.Saude.Stances.Ferido
+
+	local Bandagens = Human.Parent.Saude.Kit.Tourniquet
+
+	if Human.Parent.Saude.Stances.Tourniquet.Value == false then
+		if enabled.Value == false and Bandagens.Value > 0 then
+			enabled.Value = true
+
+			wait(.3)		
+
+			Human.Parent.Saude.Stances.Tourniquet.Value = true
+			Bandagens.Value = Bandagens.Value - 1
+
+
+			wait(2)
+			enabled.Value = false
+
+		end	
+	else
+		if enabled.Value == false then
+			enabled.Value = true
+
+			wait(.3)		
+
+			Human.Parent.Saude.Stances.Tourniquet.Value = false
+			Bandagens.Value = Bandagens.Value + 1
+
+
+			wait(2)
+			enabled.Value = false
+		end
+	end
+end)
+
+--[[
+o2.OnServerEvent:Connect(function(player)
+
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local Sangrando = Human.Parent.Saude.Stances.Sangrando
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Dor = Human.Parent.Saude.Variaveis.Dor
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Ferido = Human.Parent.Saude.Stances.Ferido
+
+local Bandagens = Human.Parent.Saude.Kit.o2
+
+
+if Human.Parent.Saude.Stances.o2.Value == false then
+	if enabled.Value == false and Sangrando.Value == false and Bandagens.Value > 0 then
+		enabled.Value = true
+		
+		wait(.3)		
+		
+		Human.Parent.Saude.Stances.o2.Value = true
+		Bandagens.Value = Bandagens.Value - 1
+		Human.Health = Human.Health + 50
+		
+		
+		wait(2)
+		enabled.Value = false
+		
+	end	
+else
+	if enabled.Value == false then
+		enabled.Value = true
+		
+		wait(.3)		
+		
+		Human.Parent.Saude.Stances.o2.Value = false
+		Bandagens.Value = Bandagens.Value + 1
+		
+		
+		wait(2)
+		enabled.Value = false
+	end
+end
+end)
+]]--
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+
+
+Compress_Multi.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local isdead = Human.Parent.Saude.Stances.rodeath
+
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	if Caido.Value == false and target.Value ~= "N/A" then
+
+		local player2 = game.Players:FindFirstChild(target.Value)
+		local PlHuman = player2.Character.Humanoid
+
+
+		local Sangrando = PlHuman.Parent.Saude.Stances.Sangrando
+		local bbleeding = PlHuman.Parent.Saude.Stances.bbleeding
+		local MLs = PlHuman.Parent.Saude.Variaveis.MLs
+		local Dor = PlHuman.Parent.Saude.Variaveis.Dor
+		local Ferido = PlHuman.Parent.Saude.Stances.Ferido
+		local cpr = PlHuman.Parent.Saude.Stances.cpr
+		local isdead = PlHuman.Parent.Saude.Stances.rodeath
+
+		if enabled.Value == false then
+
+			if isdead.Value == true and (Sangrando.Value == false or Human.Parent.Saude.Stances.Tourniquet.Value == true) then 
+				enabled.Value = true
+
+
+
+				PlHuman.Health = PlHuman.Health + 5
+
+
+
+
+				wait(0.5)
+
+				enabled.Value = false
+
+
+
+			end
+		end
+
+
+	end
+end)
+
+Bandage_Multi.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Item = Human.Parent.Saude.Kit.Bandagem
+
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	if Caido.Value == false and target.Value ~= "N/A" then
+
+		local player2 = game.Players:FindFirstChild(target.Value)
+		local PlHuman = player2.Character.Humanoid
+
+
+		local Sangrando = PlHuman.Parent.Saude.Stances.Sangrando
+		local bbleeding = PlHuman.Parent.Saude.Stances.bbleeding
+		local MLs = PlHuman.Parent.Saude.Variaveis.MLs
+		local Dor = PlHuman.Parent.Saude.Variaveis.Dor
+		local Ferido = PlHuman.Parent.Saude.Stances.Ferido
+
+		if enabled.Value == false then
+
+			if Item.Value >= 1 and Sangrando.Value == true then 
+				enabled.Value = true
+
+				wait(.3)		
+
+				local number = math.random(1, 2)
+
+				if number == 1 then		
+					Sangrando.Value = false
+				end
+
+				Item.Value = Item.Value - 1 
+
+
+				wait(2)
+				enabled.Value = false
+			end	
+
+		end	
+	end
+end)
+
+scalpel_Multi.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Item = Human.Parent.Saude.Kit.scalpel
+
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	if Caido.Value == false and target.Value ~= "N/A" then
+
+		local player2 = game.Players:FindFirstChild(target.Value)
+		local PlHuman = player2.Character.Humanoid
+
+
+		local Sangrando = PlHuman.Parent.Saude.Stances.Sangrando
+		local cutopen = PlHuman.Parent.Saude.Stances.cutopen
+		local bbleeding = PlHuman.Parent.Saude.Stances.bbleeding
+		local MLs = PlHuman.Parent.Saude.Variaveis.MLs
+		local Dor = PlHuman.Parent.Saude.Variaveis.Dor
+		local Ferido = PlHuman.Parent.Saude.Stances.Ferido
+		local o2 = PlHuman.Parent.Saude.Stances.o2
+		local caido = PlHuman.Parent.Saude.Stances.Caido
+
+		if enabled.Value == false and cutopen.Value == false and caido.Value == true and o2.Value == true then
+
+			if Item.Value >= 1 then 
+				enabled.Value = true
+
+				wait(.3)		
+
+				cutopen.Value = true
+
+
+
+				wait(2)
+
+				enabled.Value = false
+			end	
+
+		end	
+	end
+end)
+
+suction_Multi.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Item = Human.Parent.Saude.Kit.suction
+
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	if Caido.Value == false and target.Value ~= "N/A" then
+
+		local player2 = game.Players:FindFirstChild(target.Value)
+		local PlHuman = player2.Character.Humanoid
+
+
+		local Sangrando = PlHuman.Parent.Saude.Stances.Sangrando
+		local npa = PlHuman.Parent.Saude.Stances.npa
+		local etube = PlHuman.Parent.Saude.Stances.etube
+		local MLs = PlHuman.Parent.Saude.Variaveis.MLs
+		local Dor = PlHuman.Parent.Saude.Variaveis.Dor
+		local Ferido = PlHuman.Parent.Saude.Stances.Ferido
+
+
+		if PlHuman.Parent.Saude.Stances.cutopen.Value == true and PlHuman.Parent.Saude.Stances.o2.Value == true and PlHuman.Parent.Saude.Stances.Caido.Value == true then
+
+			if enabled.Value == false then
+				if Item.Value > 0 then 
+					--if Item.Value > 0 then 
+
+					enabled.Value = true
+
+					wait(.1)		
+
+					PlHuman.Parent.Saude.Stances.suction.Value = true	
+					wait(3.5)	
+
+					PlHuman.Parent.Saude.Stances.suction.Value = false
+
+
+					wait(0.1)
+					enabled.Value = false
+				end
+			end	
+		end
+	end
+
+end)
+
+clamp_Multi.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Item = Human.Parent.Saude.Kit.clamp
+
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	if Caido.Value == false and target.Value ~= "N/A" then
+
+		local player2 = game.Players:FindFirstChild(target.Value)
+		local PlHuman = player2.Character.Humanoid
+
+
+		local Sangrando = PlHuman.Parent.Saude.Stances.Sangrando
+		local npa = PlHuman.Parent.Saude.Stances.npa
+		local etube = PlHuman.Parent.Saude.Stances.etube
+		local MLs = PlHuman.Parent.Saude.Variaveis.MLs
+		local Dor = PlHuman.Parent.Saude.Variaveis.Dor
+		local Ferido = PlHuman.Parent.Saude.Stances.Ferido
+
+
+		if PlHuman.Parent.Saude.Stances.cutopen.Value == true and PlHuman.Parent.Saude.Stances.o2.Value == true and PlHuman.Parent.Saude.Stances.suction.Value == true and PlHuman.Parent.Saude.Stances.Caido.Value == true then
+
+			if enabled.Value == false then
+				if Item.Value > 0 then 
+					--if Item.Value > 0 then 
+
+					enabled.Value = true
+
+					wait(.1)		
+
+					PlHuman.Parent.Saude.Stances.clamped.Value = true	
+					wait(5.5)	
+
+					PlHuman.Parent.Saude.Stances.clamped.Value = false
+
+
+					wait(0.1)
+					enabled.Value = false
+				end
+			end	
+		end
+	end
+
+end)
+
+
+
+catheter_Multi.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Item = Human.Parent.Saude.Kit.catheter
+
+
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	if Caido.Value == false and target.Value ~= "N/A" then
+
+		local player2 = game.Players:FindFirstChild(target.Value)
+		local PlHuman = player2.Character.Humanoid
+
+
+		local Sangrando = PlHuman.Parent.Saude.Stances.Sangrando
+		local bbleeding = PlHuman.Parent.Saude.Stances.bbleeding
+		local balloonbleed = PlHuman.Parent.Saude.Stances.balloonbleed
+		local balloon = PlHuman.Parent.Saude.Stances.balloon
+		local MLs = PlHuman.Parent.Saude.Variaveis.MLs
+		local Dor = PlHuman.Parent.Saude.Variaveis.Dor
+		local Ferido = PlHuman.Parent.Saude.Stances.Ferido
+		local cutopen = PlHuman.Parent.Saude.Stances.cutopen
+		local suction = PlHuman.Parent.Saude.Stances.suction
+
+		if PlHuman.Parent.Saude.Stances.catheter.Value == false and PlHuman.Parent.Saude.Stances.o2.Value == true and cutopen.Value == true and suction.Value == true and PlHuman.Parent.Saude.Stances.Caido.Value == true then
+
+			if enabled.Value == false then
+				if Item.Value > 0 and (Sangrando.Value == true or bbleeding.Value == true) then 
+					enabled.Value = true
+
+					wait(.3)		
+
+					PlHuman.Parent.Saude.Stances.catheter.Value = true	
+
+
+					Item.Value = Item.Value - 1 
+
+
+					wait(2)
+					enabled.Value = false
+				end
+			end	
+		else
+			if enabled.Value == false then
+				if PlHuman.Parent.Saude.Stances.balloon.Value == false then 
+					enabled.Value = true
+
+					wait(.3)		
+
+					PlHuman.Parent.Saude.Stances.catheter.Value = false		
+
+					Item.Value = Item.Value + 1 
+
+
+					wait(2)
+					enabled.Value = false
+				end
+			end	
+		end
+	end
+end)
+
+balloon_Multi.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Item = Human.Parent.Saude.Kit.catheter
+
+
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	if Caido.Value == false and target.Value ~= "N/A" then
+
+		local player2 = game.Players:FindFirstChild(target.Value)
+		local PlHuman = player2.Character.Humanoid
+
+
+		local Sangrando = PlHuman.Parent.Saude.Stances.Sangrando
+		local bbleeding = PlHuman.Parent.Saude.Stances.bbleeding
+		local balloonbleed = PlHuman.Parent.Saude.Stances.balloonbleed
+		local repaired = PlHuman.Parent.Saude.Stances.repaired
+		local catheter = PlHuman.Parent.Saude.Stances.catheter
+		local o2l = PlHuman.Parent.Saude.Stances.o2
+		local MLs = PlHuman.Parent.Saude.Variaveis.MLs
+		local Dor = PlHuman.Parent.Saude.Variaveis.Dor
+		local Ferido = PlHuman.Parent.Saude.Stances.Ferido
+
+
+		if PlHuman.Parent.Saude.Stances.balloon.Value == false then
+
+			if enabled.Value == false then
+				if Item.Value > 0 and (Sangrando.Value == true or bbleeding.Value == true) and o2l.Value == true and catheter.Value == true and PlHuman.Parent.Saude.Stances.Caido.Value == true then 
+					enabled.Value = true
+
+					wait(.3)		
+
+					PlHuman.Parent.Saude.Stances.balloon.Value = true	
+					Sangrando.Value = false
+					bbleeding.Value = false	
+
+
+
+
+					wait(2)
+					enabled.Value = false
+				end
+			end	
+		else
+			if enabled.Value == false then
+				if PlHuman.Parent.Saude.Stances.balloon.Value == true and repaired.Value == true then 
+					enabled.Value = true
+
+					wait(.3)		
+
+					PlHuman.Parent.Saude.Stances.balloon.Value = false		
+
+
+					wait(2)
+					enabled.Value = false
+				end
+			end	
+		end
+	end
+end)
+
+
+prolene_Multi.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Item = Human.Parent.Saude.Kit.prolene
+
+
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	if Caido.Value == false and target.Value ~= "N/A" then
+
+		local player2 = game.Players:FindFirstChild(target.Value)
+		local PlHuman = player2.Character.Humanoid
+
+
+		local Sangrando = PlHuman.Parent.Saude.Stances.Sangrando
+		local bbleeding = PlHuman.Parent.Saude.Stances.bbleeding
+		local MLs = PlHuman.Parent.Saude.Variaveis.MLs
+		local Dor = PlHuman.Parent.Saude.Variaveis.Dor
+		local Ferido = PlHuman.Parent.Saude.Stances.Ferido
+		local o2l = PlHuman.Parent.Saude.Stances.o2
+		local balloonbleed = PlHuman.Parent.Saude.Stances.balloonbleed
+		local repaired = PlHuman.Parent.Saude.Stances.repaired
+		local balloon = PlHuman.Parent.Saude.Stances.balloon
+
+
+		if enabled.Value == false then
+
+			if Item.Value > 0 and o2l.Value == true and balloon.Value == true and PlHuman.Parent.Saude.Stances.Caido.Value == true then 
+				enabled.Value = true
+
+				wait(2)		
+
+				Sangrando.Value = false
+				bbleeding.Value = false
+				balloonbleed.Value = false
+				repaired.Value = true
+				Item.Value = Item.Value - 1
+
+
+
+				wait(2)
+
+				enabled.Value = false
+
+			end	
+
+		end	
+	end
+end)
+
+prolene5_Multi.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Item = Human.Parent.Saude.Kit.prolene5
+
+
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	if Caido.Value == false and target.Value ~= "N/A" then
+
+		local player2 = game.Players:FindFirstChild(target.Value)
+		local PlHuman = player2.Character.Humanoid
+		local Sangrando = PlHuman.Parent.Saude.Stances.Sangrando
+		local bbleeding = PlHuman.Parent.Saude.Stances.bbleeding
+		local MLs = PlHuman.Parent.Saude.Variaveis.MLs
+		local Dor = PlHuman.Parent.Saude.Variaveis.Dor
+		local Ferido = PlHuman.Parent.Saude.Stances.Ferido
+		local o2l = PlHuman.Parent.Saude.Stances.o2
+		local balloonbleed = PlHuman.Parent.Saude.Stances.balloonbleed
+		local repaired = PlHuman.Parent.Saude.Stances.repaired
+		local balloon = PlHuman.Parent.Saude.Stances.balloon
+		local clamped = PlHuman.Parent.Saude.Stances.clamped
+		local surg2 = PlHuman.Parent.Saude.Stances.surg2
+
+
+		if enabled.Value == false then
+
+			if Item.Value > 0 and o2l.Value == true and clamped.Value == true and PlHuman.Parent.Saude.Stances.Caido.Value == true then 
+
+				enabled.Value = true
+
+				wait(2)		
+
+
+				surg2.Value = false
+				repaired.Value = true
+				Item.Value = Item.Value - 1
+
+
+
+				wait(2)
+
+				enabled.Value = false
+
+			end	
+
+		end	
+	end
+end)
+
+nylon_Multi.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Item = Human.Parent.Saude.Kit.nylon
+
+
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	if Caido.Value == false and target.Value ~= "N/A" then
+
+		local player2 = game.Players:FindFirstChild(target.Value)
+		local PlHuman = player2.Character.Humanoid
+
+
+		local Sangrando = PlHuman.Parent.Saude.Stances.Sangrando
+		local bbleeding = PlHuman.Parent.Saude.Stances.bbleeding
+		local MLs = PlHuman.Parent.Saude.Variaveis.MLs
+		local Dor = PlHuman.Parent.Saude.Variaveis.Dor
+		local Ferido = PlHuman.Parent.Saude.Stances.Ferido
+		local o2l = PlHuman.Parent.Saude.Stances.o2
+		local balloonbleed = PlHuman.Parent.Saude.Stances.balloonbleed
+		local repaired = PlHuman.Parent.Saude.Stances.repaired
+		local balloon = PlHuman.Parent.Saude.Stances.balloon
+		local catheter = PlHuman.Parent.Saude.Stances.catheter
+		local cutopen = PlHuman.Parent.Saude.Stances.cutopen
+
+
+		if enabled.Value == false then
+
+			if Item.Value >= 1 and o2l.Value == true and repaired.Value == true and catheter.Value == false and cutopen.Value == true and PlHuman.Parent.Saude.Stances.Caido.Value == true then 
+				enabled.Value = true
+
+				wait(2)		
+
+
+
+				repaired.Value = false
+				cutopen.Value = false
+
+
+				wait(2)
+				Item.Value = Item.Value - 1
+				enabled.Value = false
+
+			end	
+
+		end	
+	end
+end)
+
+
+defib_Multi.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Item = Human.Parent.Saude.Kit.defib
+
+
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	if Caido.Value == false and target.Value ~= "N/A" then
+
+		local player2 = game.Players:FindFirstChild(target.Value)
+		local PlHuman = player2.Character.Humanoid
+
+
+		local Sangrando = PlHuman.Parent.Saude.Stances.Sangrando
+		local bbleeding = PlHuman.Parent.Saude.Stances.bbleeding
+		local MLs = PlHuman.Parent.Saude.Variaveis.MLs
+		local Dor = PlHuman.Parent.Saude.Variaveis.Dor
+		local Ferido = PlHuman.Parent.Saude.Stances.Ferido
+		local PlCaido = PlHuman.Parent.Saude.Stances.Caido
+		local o2p = PlHuman.Parent.Saude.Stances.o2
+		local isdead = PlHuman.Parent.Saude.Stances.rodeath
+		local cpr = PlHuman.Parent.Saude.Stances.cpr
+		local life = PlHuman.Parent.Saude.Stances.life
+
+
+		if enabled.Value == false then
+
+			if Item.Value >= 1 and o2p.Value == true and isdead.Value == true then 
+				enabled.Value = true
+
+				wait(1)		
+
+				isdead.Value = false
+
+				life.Value = true
+
+
+				PlHuman.Health = PlHuman.Health + 100
+
+
+
+				wait(1)
+				enabled.Value = false
+
+			end	
+		end	
+	end
+end)
+
+Splint_Multi.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Item = Human.Parent.Saude.Kit.Splint
+
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	if Caido.Value == false and target.Value ~= "N/A" then
+
+		local player2 = game.Players:FindFirstChild(target.Value)
+		local PlHuman = player2.Character.Humanoid
+
+
+		local Sangrando = PlHuman.Parent.Saude.Stances.Sangrando
+		local MLs = PlHuman.Parent.Saude.Variaveis.MLs
+		local Dor = PlHuman.Parent.Saude.Variaveis.Dor
+		local Ferido = PlHuman.Parent.Saude.Stances.Ferido
+
+		if enabled.Value == false then
+
+			if Item.Value >= 1 and Ferido.Value == true  then 
+				enabled.Value = true
+
+				wait(.3)		
+
+				Ferido.Value = false		
+
+				Item.Value = Item.Value - 1 
+
+
+				wait(2)
+				enabled.Value = false
+			end	
+
+		end	
+	end
+end)
+
+Tourniquet_Multi.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Item = Human.Parent.Saude.Kit.Tourniquet
+
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	if Caido.Value == false and target.Value ~= "N/A" then
+
+		local player2 = game.Players:FindFirstChild(target.Value)
+		local PlHuman = player2.Character.Humanoid
+
+
+		local Sangrando = PlHuman.Parent.Saude.Stances.Sangrando
+		local MLs = PlHuman.Parent.Saude.Variaveis.MLs
+		local Dor = PlHuman.Parent.Saude.Variaveis.Dor
+		local Ferido = PlHuman.Parent.Saude.Stances.Ferido
+
+
+		if PlHuman.Parent.Saude.Stances.Tourniquet.Value == false then
+
+			if enabled.Value == false then
+				if Item.Value > 0 then 
+					enabled.Value = true
+
+					wait(.3)		
+
+					PlHuman.Parent.Saude.Stances.Tourniquet.Value = true		
+
+					Item.Value = Item.Value - 1 
+
+
+					wait(2)
+					enabled.Value = false
+				end
+			end	
+		else
+			if enabled.Value == false then
+				if PlHuman.Parent.Saude.Stances.Tourniquet.Value == true then 
+					enabled.Value = true
+
+					wait(.3)		
+
+					PlHuman.Parent.Saude.Stances.Tourniquet.Value = false		
+
+					Item.Value = Item.Value + 1 
+
+
+					wait(2)
+					enabled.Value = false
+				end
+			end	
+		end
+	end
+end)
+
+skit_Multi.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Item = Human.Parent.Saude.Kit.skit
+
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	if Caido.Value == false and target.Value ~= "N/A" then
+
+		local player2 = game.Players:FindFirstChild(target.Value)
+		local PlHuman = player2.Character.Humanoid
+
+
+		local Sangrando = PlHuman.Parent.Saude.Stances.Sangrando
+		local MLs = PlHuman.Parent.Saude.Variaveis.MLs
+		local Dor = PlHuman.Parent.Saude.Variaveis.Dor
+		local Ferido = PlHuman.Parent.Saude.Stances.Ferido
+
+
+		if PlHuman.Parent.Saude.Stances.skit.Value == false then
+
+			if enabled.Value == false then
+				if Item.Value > 0 then 
+					enabled.Value = true
+
+					wait(.3)		
+
+					PlHuman.Parent.Saude.Stances.skit.Value = true		
+
+					Item.Value = Item.Value - 1 
+
+
+					wait(2)
+					enabled.Value = false
+				end
+			end	
+		else
+			if enabled.Value == false then
+				if PlHuman.Parent.Saude.Stances.skit.Value == true then 
+					enabled.Value = true
+
+					wait(.3)		
+
+					PlHuman.Parent.Saude.Stances.skit.Value = false		
+
+
+					wait(2)
+					enabled.Value = false
+				end
+			end	
+		end
+	end
+end)
+
+npa_Multi.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Item = Human.Parent.Saude.Kit.npa
+
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	if Caido.Value == false and target.Value ~= "N/A" then
+
+		local player2 = game.Players:FindFirstChild(target.Value)
+		local PlHuman = player2.Character.Humanoid
+
+
+		local faido = PlHuman.Parent.Saude.Stances.Caido
+		local o2p = PlHuman.Parent.Saude.Stances.o2
+		local nrb = PlHuman.Parent.Saude.Stances.nrb
+
+		local MLs = PlHuman.Parent.Saude.Variaveis.MLs
+		local Dor = PlHuman.Parent.Saude.Variaveis.Dor
+		local Ferido = PlHuman.Parent.Saude.Stances.Ferido
+
+
+		if PlHuman.Parent.Saude.Stances.npa.Value == false then
+
+			if enabled.Value == false then
+				if Item.Value > 0 and faido.Value == false then 
+					enabled.Value = true
+
+					wait(.3)		
+
+
+					PlHuman.Parent.Saude.Stances.npa.Value = true	
+
+
+					Item.Value = Item.Value - 1 
+
+
+					wait(2)
+					enabled.Value = false
+				end
+			end	
+		else
+			if enabled.Value == false then
+				if PlHuman.Parent.Saude.Stances.npa.Value == true and nrb.Value == false then 
+					enabled.Value = true
+
+					wait(.3)		
+
+					PlHuman.Parent.Saude.Stances.npa.Value = false	
+
+					Item.Value = Item.Value + 1 
+
+
+					wait(2)
+					enabled.Value = false
+				end
+			end	
+		end
+	end
+end)
+
+etube_Multi.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Item = Human.Parent.Saude.Kit.etube
+
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	if Caido.Value == false and target.Value ~= "N/A" then
+
+		local player2 = game.Players:FindFirstChild(target.Value)
+		local PlHuman = player2.Character.Humanoid
+
+
+		local faido = PlHuman.Parent.Saude.Stances.Caido
+		local o2p = PlHuman.Parent.Saude.Stances.o2
+
+		local MLs = PlHuman.Parent.Saude.Variaveis.MLs
+		local Dor = PlHuman.Parent.Saude.Variaveis.Dor
+		local Ferido = PlHuman.Parent.Saude.Stances.Ferido
+
+
+		if PlHuman.Parent.Saude.Stances.etube.Value == false then
+
+			if enabled.Value == false then
+				if Item.Value > 0 and faido.Value == true then 
+					enabled.Value = true
+
+					wait(.3)		
+
+
+					PlHuman.Parent.Saude.Stances.etube.Value = true
+
+					Item.Value = Item.Value - 1 
+
+
+					wait(2)
+					enabled.Value = false
+				end
+			end	
+		else
+			if enabled.Value == false then
+				if PlHuman.Parent.Saude.Stances.etube.Value == true and o2p.Value == false then 
+					enabled.Value = true
+
+					wait(.3)		
+
+
+					PlHuman.Parent.Saude.Stances.etube.Value = false
+
+
+					Item.Value = Item.Value + 1 
+
+
+					wait(2)
+					enabled.Value = false
+				end
+			end	
+		end
+	end
+end)
+
+nrb_Multi.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Item = Human.Parent.Saude.Kit.nrb
+
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	if Caido.Value == false and target.Value ~= "N/A" then
+
+		local player2 = game.Players:FindFirstChild(target.Value)
+		local PlHuman = player2.Character.Humanoid
+
+
+		local faido = PlHuman.Parent.Saude.Stances.Caido
+		local o2p = PlHuman.Parent.Saude.Stances.o2
+
+		local MLs = PlHuman.Parent.Saude.Variaveis.MLs
+		local Dor = PlHuman.Parent.Saude.Variaveis.Dor
+		local Ferido = PlHuman.Parent.Saude.Stances.Ferido
+
+
+		if PlHuman.Parent.Saude.Stances.nrb.Value == false and PlHuman.Parent.Saude.Stances.npa.Value == true then
+
+			if enabled.Value == false then
+				if Item.Value > 0 then 
+					enabled.Value = true
+
+					wait(.3)		
+
+
+					PlHuman.Parent.Saude.Stances.nrb.Value = true
+
+					Item.Value = Item.Value - 1 
+
+
+					wait(2)
+					enabled.Value = false
+				end
+			end	
+		else
+			if enabled.Value == false then
+				if PlHuman.Parent.Saude.Stances.nrb.Value == true and o2p.Value == false then 
+					enabled.Value = true
+
+					wait(.3)		
+
+
+					PlHuman.Parent.Saude.Stances.nrb.Value = false
+
+
+					Item.Value = Item.Value + 1 
+
+
+					wait(2)
+					enabled.Value = false
+				end
+			end	
+		end
+	end
+end)
+
+o2_Multi.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Item = Human.Parent.Saude.Kit.o2
+
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	if Caido.Value == false and target.Value ~= "N/A" then
+
+		local player2 = game.Players:FindFirstChild(target.Value)
+		local PlHuman = player2.Character.Humanoid
+
+
+		local Sangrando = PlHuman.Parent.Saude.Stances.Sangrando
+		local npa = PlHuman.Parent.Saude.Stances.npa
+		local nrb = PlHuman.Parent.Saude.Stances.nrb
+		local etube = PlHuman.Parent.Saude.Stances.etube
+		local MLs = PlHuman.Parent.Saude.Variaveis.MLs
+		local Dor = PlHuman.Parent.Saude.Variaveis.Dor
+		local Ferido = PlHuman.Parent.Saude.Stances.Ferido
+
+
+		if PlHuman.Parent.Saude.Stances.o2.Value == false then
+
+			if enabled.Value == false then
+				if Item.Value > 0 and (nrb.Value == true or etube.Value == true) then 
+					--if Item.Value > 0 then 
+
+					enabled.Value = true
+
+					wait(.3)		
+
+					PlHuman.Parent.Saude.Stances.o2.Value = true		
+
+					Item.Value = Item.Value - 1 
+
+
+					wait(2)
+					enabled.Value = false
+				end
+			end	
+		else
+			if enabled.Value == false then
+				if PlHuman.Parent.Saude.Stances.o2.Value == true then
+					enabled.Value = true
+
+					wait(.3)		
+
+					PlHuman.Parent.Saude.Stances.o2.Value = false		
+
+					Item.Value = Item.Value + 1 
+
+
+					wait(2)
+					enabled.Value = false
+				end
+			end	
+		end
+	end
+end)
+
+
+bvm_Multi.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Item = Human.Parent.Saude.Kit.bvm
+
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	if Caido.Value == false and target.Value ~= "N/A" then
+
+		local player2 = game.Players:FindFirstChild(target.Value)
+		local PlHuman = player2.Character.Humanoid
+
+
+		local Sangrando = PlHuman.Parent.Saude.Stances.Sangrando
+		local npa = PlHuman.Parent.Saude.Stances.npa
+		local etube = PlHuman.Parent.Saude.Stances.etube
+		local MLs = PlHuman.Parent.Saude.Variaveis.MLs
+		local Dor = PlHuman.Parent.Saude.Variaveis.Dor
+		local Ferido = PlHuman.Parent.Saude.Stances.Ferido
+
+
+		if PlHuman.Parent.Saude.Stances.o2.Value == false then
+
+			if enabled.Value == false then
+				if Item.Value > 0 and (npa.Value == true or etube.Value == true) then 
+					--if Item.Value > 0 then 
+
+					enabled.Value = true
+
+					wait(.2)		
+
+					PlHuman.Parent.Saude.Stances.o2.Value = true	
+					wait(4.5)	
+
+					PlHuman.Parent.Saude.Stances.o2.Value = false
+
+
+					wait(0.2)
+					enabled.Value = false
+				end
+			end	
+		end
+	end
+
+end)
+
+
+
+Epinephrine_Multi.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Item = Human.Parent.Saude.Kit.Epinefrina
+	local bbleeding = Human.Parent.Saude.Stances.bbleeding
+
+
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	if Caido.Value == false and target.Value ~= "N/A" then
+
+		local player2 = game.Players:FindFirstChild(target.Value)
+		local PlHuman = player2.Character.Humanoid
+
+
+		local Sangrando = PlHuman.Parent.Saude.Stances.Sangrando
+		local MLs = PlHuman.Parent.Saude.Variaveis.MLs
+		local Dor = PlHuman.Parent.Saude.Variaveis.Dor
+		local Ferido = PlHuman.Parent.Saude.Stances.Ferido
+		local PlCaido = PlHuman.Parent.Saude.Stances.Caido
+		local isdead = PlHuman.Parent.Saude.Stances.rodeath
+		local skit = PlHuman.Parent.Saude.Stances.skit
+
+		if enabled.Value == false then
+			--if enabled.Value == false and bbleeding.Value == false then
+			if Item.Value >= 1 and PlCaido.Value == true and skit.Value == true then 
+				enabled.Value = true
+
+
+
+				wait(.3)		
+
+				if Dor.Value > 0 then
+					Dor.Value = Dor.Value + math.random(10,20)
+				end
+
+				if Sangrando.Value == true then
+					MLs.Value = MLs.Value + math.random(10,35)
+				end
+
+				isdead.Value = false
+
+				PlCaido.Value = false	
+
+				PlHuman.PlatformStand = false
+				PlHuman.Parent.UnconsciousRagdoll.Activate.Value = false
+				PlHuman.AutoRotate = true		
+
+				Item.Value = Item.Value - 1 
+
+
+				wait(2)
+				enabled.Value = false
+			end	
+
+		end	
+	end
+end)
+
+anesthetic_Multi.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Item = Human.Parent.Saude.Kit.anesthetic
+	local bbleeding = Human.Parent.Saude.Stances.bbleeding
+
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	if Caido.Value == false and target.Value ~= "N/A" then
+
+		local player2 = game.Players:FindFirstChild(target.Value)
+		local PlHuman = player2.Character.Humanoid
+
+
+		local Sangrando = PlHuman.Parent.Saude.Stances.Sangrando
+		local MLs = PlHuman.Parent.Saude.Variaveis.MLs
+		local Dor = PlHuman.Parent.Saude.Variaveis.Dor
+		local Ferido = PlHuman.Parent.Saude.Stances.Ferido
+		local PlCaido = PlHuman.Parent.Saude.Stances.Caido
+		local skit = PlHuman.Parent.Saude.Stances.skit
+
+		if enabled.Value == false then
+			--if enabled.Value == false and bbleeding.Value == false then
+			if Item.Value >= 1 and PlCaido.Value == false and skit.Value == true then 
+				enabled.Value = true
+
+
+				wait(.3)		
+
+
+
+				PlCaido.Value = true	
+				PlHuman.PlatformStand = true
+				PlHuman.AutoRotate = false
+
+				Item.Value = Item.Value - 1 
+
+
+				wait(2)
+				enabled.Value = false
+			end	
+
+		end	
+	end
+end)
+
+Morphine_Multi.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Item = Human.Parent.Saude.Kit.Morfina
+
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	if Caido.Value == false and target.Value ~= "N/A" then
+
+		local player2 = game.Players:FindFirstChild(target.Value)
+		local PlHuman = player2.Character.Humanoid
+
+
+		local Sangrando = PlHuman.Parent.Saude.Stances.Sangrando
+		local MLs = PlHuman.Parent.Saude.Variaveis.MLs
+		local Dor = PlHuman.Parent.Saude.Variaveis.Dor
+		local Ferido = PlHuman.Parent.Saude.Stances.Ferido
+		local PlCaido = PlHuman.Parent.Saude.Stances.Caido
+		local skit = PlHuman.Parent.Saude.Stances.skit
+
+		if enabled.Value == false then
+
+			if Item.Value >= 1 and Dor.Value >= 1 and skit.Value == true then 
+				enabled.Value = true
+
+				wait(.3)		
+
+				Dor.Value = Dor.Value - math.random(100,150)
+
+				Item.Value = Item.Value - 1 
+
+
+				wait(2)
+				enabled.Value = false
+			end	
+
+		end	
+	end
+end)
+
+BloodBag_Multi.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Item = Human.Parent.Saude.Kit.SacoDeSangue
+
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	if Caido.Value == false and target.Value ~= "N/A" then
+
+		local player2 = game.Players:FindFirstChild(target.Value)
+		local PlHuman = player2.Character.Humanoid
+
+
+		local Sangrando = PlHuman.Parent.Saude.Stances.Sangrando
+		local MLs = PlHuman.Parent.Saude.Variaveis.MLs
+		local Dor = PlHuman.Parent.Saude.Variaveis.Dor
+		local blood = PlHuman.Parent.Saude.Variaveis.Sangue
+		local Ferido = PlHuman.Parent.Saude.Stances.Ferido
+		local PlCaido = PlHuman.Parent.Saude.Stances.Caido
+		local skit = PlHuman.Parent.Saude.Stances.skit
+
+		if enabled.Value == false then
+
+			if Item.Value >= 1 and skit.Value == true then 
+				enabled.Value = true
+
+				wait(.3)		
+
+				blood.Value = blood.Value + 2000
+
+				Item.Value = Item.Value - 1 
+
+
+				wait(2)
+				enabled.Value = false
+			end	
+
+		end	
+	end
+end)
+
+drawblood_Multi.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local enabled = Human.Parent.Saude.Variaveis.Doer
+	local MLs = Human.Parent.Saude.Variaveis.MLs
+	local Caido = Human.Parent.Saude.Stances.Caido
+	local Item = Human.Parent.Saude.Kit.SacoDeSangue
+
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	if Caido.Value == false and target.Value ~= "N/A" then
+
+		local player2 = game.Players:FindFirstChild(target.Value)
+		local PlHuman = player2.Character.Humanoid
+
+
+		local Sangrando = PlHuman.Parent.Saude.Stances.Sangrando
+		local MLs = PlHuman.Parent.Saude.Variaveis.MLs
+		local Dor = PlHuman.Parent.Saude.Variaveis.Dor
+		local blood = PlHuman.Parent.Saude.Variaveis.Sangue
+		local Ferido = PlHuman.Parent.Saude.Stances.Ferido
+		local PlCaido = PlHuman.Parent.Saude.Stances.Caido
+		local skit = PlHuman.Parent.Saude.Stances.skit
+
+		if enabled.Value == false then
+
+			if Item.Value < 10 and skit.Value == true then 
+				enabled.Value = true
+
+				wait(.3)		
+
+				blood.Value = blood.Value - 2000
+
+				Item.Value = Item.Value + 1 
+
+
+				wait(2)
+				enabled.Value = false
+			end	
+
+		end	
+	end
+end)
+
+
+
+
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+
+Collapse.OnServerEvent:Connect(function(player)
+
+
+	local Human = player.Character.Humanoid
+	local Dor = Human.Parent.Saude.Variaveis.Dor
+	local Sangue = Human.Parent.Saude.Variaveis.Sangue
+	local IsWounded = Human.Parent.Saude.Stances.Caido
+	local IsDead = Human.Parent.Saude.Stances.rodeath
+
+
+	if Sangue.Value <= 1250 or Dor.Value >= 600 or IsWounded.Value == true or IsDead.Value == true then -- Man this Guy's Really wounded,
+		IsWounded.Value = true
+		Human.PlatformStand = true
+		Human.AutoRotate = false		
+		Human.Parent.UnconsciousRagdoll.Activate.Value = true
+
+	elseif IsWounded.Value == false then -- YAY A MEDIC ARRIVED! =D
+		Human.PlatformStand = false
+		Human.AutoRotate = true
+		Human.Parent.UnconsciousRagdoll.Activate.Value = false
+
+	end
+end)
+
+
+
+
+
+
+
+Reset.OnServerEvent:Connect(function(player)
+
+	local Human = player.Character.Humanoid
+	local target = Human.Parent.Saude.Variaveis.PlayerSelecionado
+
+	target.Value = player.Name
+end)
